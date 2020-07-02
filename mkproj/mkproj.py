@@ -13,7 +13,7 @@ def createParser():
 
 ########## MAIN
 if __name__ == '__main__':
-    absolute_path = '/mnt/d/CS/Dev/Utilities/mkf'
+    absolute_path = '/mnt/d/CS/Dev/Utility_scripts/mkproj'
     name = ''
     template = ''
     path = os.getcwd()
