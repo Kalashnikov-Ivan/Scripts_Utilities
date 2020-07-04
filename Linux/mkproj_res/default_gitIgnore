@@ -1,0 +1,10 @@
+# игнорировать все файлы в каталогах /
+tmp/
+.vscode/
+
+# Ignoring all obj files in all catalogs
+**/*.o
+# Ignoring all executable files in all catalogs
+**/*.x
+**/*.elf
+**/*.code-workspace
